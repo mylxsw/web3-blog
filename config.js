@@ -3,7 +3,7 @@ module.exports = {
         title: '人人链向未来',
         description: '不分职业背景，共同迈入去中心时代。',
         author: 'mylxsw',
-        url: 'https://web3.gulu.ai', // RSS需要的站点URL
+        url: 'https://wy.is', // RSS需要的站点URL
         copyrightYear: new Date().getFullYear()
     },
     theme: {
