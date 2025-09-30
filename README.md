@@ -12,7 +12,7 @@ A simple static blog generator using Markdown files.
 ## 项目结构
 
 ```
-markdown-blog/
+markdown-blog/ 
 ├── pages/                  # Markdown源文件目录
 ├── public/                 # 生成的静态文件目录
 ├── templates/              # HTML模板目录
