@@ -58,7 +58,7 @@ module.exports = {
         defaultPriority: 0.6
     },
     advertising: {
-        disabled: true,
+        disabled: false,
         /**
          * Google AdSense 等广告联盟要求的 ads.txt 中的发布者 ID。
          * 请替换为真实 ID。
