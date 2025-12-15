@@ -182,6 +182,9 @@ var _hmt = _hmt || [];
                     },
                     toc: {
                         title: '目录'
+                    },
+                    summary: {
+                        title: '要点速览'
                     }
                 }
             },
@@ -247,6 +250,9 @@ var _hmt = _hmt || [];
                     },
                     toc: {
                         title: 'Table of Contents'
+                    },
+                    summary: {
+                        title: 'Key Takeaways'
                     }
                 }
             }
