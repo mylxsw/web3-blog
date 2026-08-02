@@ -25,7 +25,7 @@ module.exports = {
              * 指定导航栏中直接展示的分类名称，按照数组顺序显示。
              * 未列出的分类会被归入“更多”下拉菜单中。
              */
-            topLevel: ['经济日报', '新手入门'],
+            topLevel: ['新手入门'],
             /**
              * 自定义“更多”菜单的文案。
              */
@@ -111,7 +111,7 @@ var _hmt = _hmt || [];
 (function() {
   var hm = document.createElement("script");
   hm.src = "https://hm.baidu.com/hm.js?c77e5a3ef513ef219e1e4cbfa98a950e";
-  var s = document.getElementsByTagName("script")[0]; 
+  var s = document.getElementsByTagName("script")[0];
   s.parentNode.insertBefore(hm, s);
 })();
 </script>`
